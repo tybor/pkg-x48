@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HP48 Emulator
+GenericName=HP48 Emulator
+Comment=Use the HP48 on your desktop
+TryExec=x48
+Exec=x48
+Icon=/usr/share/pixmaps/x48.png
+Terminal=false
+Type=Application
+Categories=Utility;Calculator;
+StartupNotify=true

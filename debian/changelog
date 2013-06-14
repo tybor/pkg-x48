@@ -1,0 +1,12 @@
+x48 (0.6.3-1) unstable; urgency=low
+
+  * Ustream version
+  * Switch to dpkg-source 3.0 (quilt) format
+
+ -- Jean Schurger <jean@schurger.org>  Wed, 08 Dec 2010 09:41:39 -0500
+
+x48 (0.6.1-1) unstable; urgency=low
+
+  * Ustream version
+
+ -- Jean Schurger <jean@schurger.org>  Wed, 05 Aug 2009 04:52:29 -0400
